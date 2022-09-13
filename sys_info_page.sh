@@ -8,6 +8,6 @@ echo "<html>
 <title>$title<title>
 </head>
 <body>
-<h1>$titlet</h1>
+<h1>$title</h1>
 </body>
 </html>"
