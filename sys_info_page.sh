@@ -1,7 +1,7 @@
 #!/bin/bash
 # Program to output a system information page
 
-title="System Information Report"
+TITLE="System Information Repor for $HOSTNAMEt"
 
 echo "<html>
 <head>
